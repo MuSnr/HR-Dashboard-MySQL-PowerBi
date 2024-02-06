@@ -5,14 +5,14 @@
 
 
 
-Data Used
+## Data Used
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
 Data Cleaning & Analysis - MySQL, Jupyter Notebook(sql magic)
 
 Data Visualization - PowerBI
 
-                        Questions
+                        ## Questions
 * What is the demographic breakdown of employees in the company based on gender?
 
 * What is the overview of the racial and ethnic makeup of employees in the company?
@@ -39,7 +39,7 @@ Data Visualization - PowerBI
 
 
 
-Summary Findings
+## Summary Findings
 
 * There are more male employees
 
@@ -61,4 +61,4 @@ Summary Findings
 
 * The net change in employees has increased over the years.
 
-*The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
+* The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
